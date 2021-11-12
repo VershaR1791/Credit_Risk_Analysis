@@ -27,3 +27,19 @@ In this analysis Jill wants to understand how all the factors in loan applicatio
   - Precision is 99% and the recall is 57% overall
 
 ![image](https://user-images.githubusercontent.com/84694664/141410493-9980f1b0-f058-4074-8079-a3b1242b61ff.png)
+
+- **Balanced Random Forest Classifier results: **
+  - Accuracy score is 77.46% 
+  - Precision is 99% and the recall is 88%
+  
+![image](https://user-images.githubusercontent.com/84694664/141410577-6461ac81-b523-4f74-a109-dbf84bc67383.png)
+
+- **Easy Ensemble AdaBoost Classifier results: **
+  - Accuracy score is 91.7% 
+  - Precision is 99% and the recall is 94%
+ 
+![image](https://user-images.githubusercontent.com/84694664/141410904-5cd2c0be-32ac-4370-a5d9-9a2b6492fc69.png)
+
+
+
+
