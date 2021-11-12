@@ -21,3 +21,9 @@ In this analysis Jill wants to understand how all the factors in loan applicatio
   - Precision is at 99% and the recall is 40%
 
 ![image](https://user-images.githubusercontent.com/84694664/141410386-b697c7c5-58ea-46b6-b6ca-2dfb55f4eddf.png)
+
+- **Combination(over and undersampling) results: **
+  - Balanced accuracy score is 54.7% 
+  - Precision is 99% and the recall is 57% overall
+
+![image](https://user-images.githubusercontent.com/84694664/141410493-9980f1b0-f058-4074-8079-a3b1242b61ff.png)
