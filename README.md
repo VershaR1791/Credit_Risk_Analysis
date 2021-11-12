@@ -40,6 +40,8 @@ In this analysis Jill wants to understand how all the factors in loan applicatio
  
 ![image](https://user-images.githubusercontent.com/84694664/141410904-5cd2c0be-32ac-4370-a5d9-9a2b6492fc69.png)
 
-
+## Summary
+- The first four models does not have a high accuracy score as the ensemble classifiers and the recall in the oversampling/undersampling/mixed models is low as well. 
+- The recommendation would be to use Easy Ensemble since it had the best balance of all the models because of it's high accuracy score and good balance of precision and recall scores.
 
 
